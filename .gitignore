@@ -1,6 +1,6 @@
 .ipynb_checkpoints
 venv/
-spotify-keys
-spotifyOSC
+spotify-keys.json
+spotifyOSC.json
 *.mp4
 .cache-*
