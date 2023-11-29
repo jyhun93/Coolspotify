@@ -1,0 +1,2 @@
+virtualenv venv
+pip install jupyter pandas spotipy python-osc
