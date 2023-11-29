@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+venv/
+spotify-keys
+spotifyOSC
+*.mp4
+.cache-*
