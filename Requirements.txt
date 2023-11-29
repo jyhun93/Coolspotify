@@ -1,2 +1,3 @@
 virtualenv venv
 pip install jupyter pandas spotipy python-osc
+Please check and input your IP address in both Jupyter Notebook and Processing.
